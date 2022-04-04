@@ -1,5 +1,5 @@
 <h1 align="center">
-  Barber Shop
+  Firegram
   <br>
   (Personal project)
 </h1>
